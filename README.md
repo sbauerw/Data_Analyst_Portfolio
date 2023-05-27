@@ -1,8 +1,7 @@
-# Data_Analyst_Portfolio
+Welcome to my professional portfolio on GitHub!
 
-Hello, welcome to my professional portfolio.
+I'm Stefan, a Junior Data Analyst with a specialization in Business Intelligence. This repository is dedicated to showcasing a collection of my work and projects.
 
-My name is Stefan, I'm a Jr Data Analyst specialicing in Business Intelligence. I have created this repository to showcase some of my work.
+I invite you to explore the repository and provide your valuable feedback or make specific requests by reaching out to me at stefanbauerw@gmail.com.
 
-Feel free to reach out if you have any comments or request at stefanbauerw@gmail.com
-
+Thank you for visiting, and I look forward to connecting with you!
