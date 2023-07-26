@@ -17,7 +17,7 @@ Understanding and managing attrition is crucial for any organization. In this pr
 
 ## Repository Contents
 
--   **HR_Attrition_Report.xlsx**: The Excel report containing the detailed analysis of HR attrition. It includes multiple sheets with data, calculations, and visualizations.
+-   **HR_Attrition_Report_SB.xlsx**: The Excel report containing the detailed analysis of HR attrition. It includes multiple sheets with data, calculations, and visualizations.
 -   **README.md**: This README file providing an overview of the project.
 
 Feel free to explore the Excel report and delve into the insights gained from analyzing the HR attrition dataset. If you have any questions or would like to discuss the project further, please feel free to reach out to me.
